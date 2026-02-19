@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+# 🎮 Quest Daily
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Turn your daily tasks into epic quests!
 
-## Available Scripts
+A gamified task management application built with React. Complete tasks to earn XP, level up your character, unlock achievements, and maintain daily streaks.
 
-In the project directory, you can run:
+## ✨ Features
 
-### `npm start`
+- 🎯 **Quest System** - Create tasks with categories (Work, Fitness, Study, Personal)
+- ⚡ **XP & Leveling** - Earn experience points and level up infinitely
+- 🏆 **Achievements** - Unlock 8 different achievements
+- 🔥 **Daily Streaks** - Maintain consistency with streak tracking
+- 📊 **Statistics** - Track your progress with detailed analytics
+- 💾 **Persistent Storage** - Your progress is saved locally
+- 📱 **Responsive Design** - Works on mobile, tablet, and desktop
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Live Demo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**[Try Quest Daily →](https://quest-daily-janmi.netlify.app)**
 
-### `npm test`
+## 🛠️ Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React** - UI library
+- **JavaScript ES6+** - Programming language
+- **LocalStorage API** - Data persistence
+- **Lucide React** - Icon library
+- **Netlify** - Deployment & hosting
 
-### `npm run build`
+## 📦 Installation
+```bash
+# Clone repository
+git clone https://github.com/TVOJ-USERNAME/quest-daily.git
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Navigate to directory
+cd quest-daily
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Install dependencies
+npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Start development server
+npm start
+```
 
-### `npm run eject`
+## 🎯 Usage
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. **Create quests** using Quick Templates or Custom Quest button
+2. **Complete quests** to earn XP based on difficulty
+3. **Level up** as you accumulate experience points
+4. **Maintain streaks** by completing at least one quest daily
+5. **Track progress** in the Statistics dashboard
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🏆 Achievements
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- 🎯 First Quest
+- 🔥 3-Day Streak
+- ⚡ Weekly Warrior (7 days)
+- ⭐ Level 5
+- 🏆 Level 10 Master
+- 💪 10 Quests
+- 🎖️ 50 Quests
+- 👑 Century Club (100 quests)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 📸 Screenshots
 
-## Learn More
+![Quest Daily Screenshot](https://quest-daily-janmi.netlify.app/preview.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🤝 Contributing
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Contributions are welcome! Feel free to open issues or submit pull requests.
 
-### Code Splitting
+## 📄 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This project is open source and available under the MIT License.
 
-### Analyzing the Bundle Size
+## 👤 Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+**JanMi**
+- GitHub: [@TVOJ-USERNAME](https://github.com/TVOJ-USERNAME)
+- LinkedIn: [Tvoj LinkedIn](https://linkedin.com/in/tvoj-profil)
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Created with ❤️ by ©JanMi 2026
